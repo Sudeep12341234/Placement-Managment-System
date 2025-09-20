@@ -161,12 +161,12 @@ Handles student profile data. *Important*: You must provide the id of an existin
 * **POST /api/students/** - Adds a new student.
     json
     {
-        "name": "Yogesh Kumar",
-        "roll": 419,
+        "name": "Sudeep G",
+        "roll": 414,
         "qualification": "B.E.",
         "course": "Computer Science and Engineering",
         "year": 2025,
-        "hallTicketNo": 987654,
+        "hallTicketNo": 954562,
         "college": {
             "id": 1
         },
