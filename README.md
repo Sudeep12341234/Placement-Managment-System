@@ -40,7 +40,7 @@ Follow these instructions to get a local copy up and running.
 
 1.  *Clone the repository:*
     sh
-    git clone [https://github.com/0YogeshKumar/Placement-Managment-System.git](https://github.com/0YogeshKumar/Placement-Managment-System.git)
+    git clone [https://github.com/0YogeshKumar/Placement-Managment-System.git](https://github.com/Sudeep12341234)
     cd Placement-Managment-System
     
 
